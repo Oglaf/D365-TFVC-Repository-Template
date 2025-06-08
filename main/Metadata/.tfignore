@@ -4,89 +4,19 @@
 
 # Exclude not source control related folders for all models
 
-# AnnataDynamicsBusinessPlatform
-\AnnataDynamicsBusinessPlatform\Bin\GeneratedXppSource
-\AnnataDynamicsBusinessPlatform\Reports
-\AnnataDynamicsBusinessPlatform\Resources
-\AnnataDynamicsBusinessPlatform\WebContent
-\AnnataDynamicsBusinessPlatform\XppMetadata
+# Generic ISV Binary package
+\ISVBinary\Bin\GeneratedXppSource
+\ISVBinary\Reports
+\ISVBinary\Resources
+\ISVBinary\WebContent
+\ISVBinary\XppMetadata
 
-# AnnataDynamicsIDMS
-\AnnataDynamicsIDMS\Bin\GeneratedXppSource
-\AnnataDynamicsIDMS\Reports
-\AnnataDynamicsIDMS\Resources
-\AnnataDynamicsIDMS\WebContent
-\AnnataDynamicsIDMS\XppMetadata
-
-# AnnataDynamicsIDMSBI
-\AnnataDynamicsIDMS\Bin\GeneratedXppSource
-\AnnataDynamicsIDMSBI\Reports
-\AnnataDynamicsIDMSBI\Resources
-\AnnataDynamicsIDMSBI\WebContent
-\AnnataDynamicsIDMSBI\XppMetadata
-
-# AnnataDynamicsIDMSLicense
-\AnnataDynamicsIDMSLicense\Bin\GeneratedXppSource
-\AnnataDynamicsIDMSLicense\Reports
-\AnnataDynamicsIDMSLicense\Resources
-\AnnataDynamicsIDMSLicense\WebContent
-\AnnataDynamicsIDMSLicense\XppMetadata
-
-# AnnataDynamicsIDMSTrackingDim
-\AnnataDynamicsIDMSTrackingDim\Bin\GeneratedXppSource
-\AnnataDynamicsIDMSTrackingDim\Reports
-\AnnataDynamicsIDMSTrackingDim\Resources
-\AnnataDynamicsIDMSTrackingDim\WebContent
-\AnnataDynamicsIDMSTrackingDim\XppMetadata
-
-# AWLATAM
-\AWLATAM\Bin\GeneratedXppSource
-\AWLATAM\Reports
-\AWLATAM\Resources
-\AWLATAM\WebContent
-\AWLATAM\XppMetadata
-
-# CEAlnove
-\CEAlnove\Bin\GeneratedXppSource
-\CEAlnove\Reports
-\CEAlnove\Resources
-\CEAlnove\WebContent
-\CEAlnove\XppMetadata
-
-# IDMSLabels
-\IDMSLabels\Bin\GeneratedXppSource
-\IDMSLabels\Reports
-\IDMSLabels\Resources
-\IDMSLabels\WebContent
-\IDMSLabels\XppMetadata
-
-# IDMSPlatformLabels
-\IDMSPlatformLabels\Bin\GeneratedXppSource
-\IDMSPlatformLabels\Reports
-\IDMSPlatformLabels\Resources
-\IDMSPlatformLabels\WebContent
-\IDMSPlatformLabels\XppMetadata
-
-# InoveProjects
-\InoveProjects\Bin\GeneratedXppSource
-\InoveProjects\Reports
-\InoveProjects\Resources
-\InoveProjects\WebContent
-\InoveProjects\XppMetadata
-
-# TechnicalPlatform
-\TechnicalPlatform\Bin\GeneratedXppSource
-\TechnicalPlatform\Reports
-\TechnicalPlatform\Resources
-\TechnicalPlatform\WebContent
-\TechnicalPlatform\XppMetadata
-
-# TechnicalPlatformCustomControls
-\TechnicalPlatformCustomControls\Bin\GeneratedXppSource
-\TechnicalPlatformCustomControls\Reports
-\TechnicalPlatformCustomControls\Resources
-\TechnicalPlatformCustomControls\WebContent
-\TechnicalPlatformCustomControls\XppMetadata
+# Generic ISV Model
+\CustomModel\Bin\
+\CustomModel\Reports
+\CustomModel\Resources
+\CustomModel\WebContent
+\CustomModel\XppMetadata
 
 #Exclude specific files
 BPCheck.xml
